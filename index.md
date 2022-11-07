@@ -1,4 +1,4 @@
-This i supposed to be my personal blog on things related to quantum information and computation. Currently, it is WIP.
+This is supposed to be my personal blog on things related to quantum information and computation. Currently, it is WIP.
 
 Here you can say lots of fun things about your site.
 
