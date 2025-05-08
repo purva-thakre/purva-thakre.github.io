@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Purva Thakre Blog</title>
+    <link>https://purva-thakre.github.io/blog/</link>
+    <description>Recent content in Blogs on Purva Thakre Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 May 2025 14:03:29 -0500</lastBuildDate><atom:link href="https://purva-thakre.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>https://purva-thakre.github.io/blog/my-new-post/</link>
+      <pubDate>Thu, 08 May 2025 14:03:29 -0500</pubDate>
+      
+      <guid>https://purva-thakre.github.io/blog/my-new-post/</guid>
+      <description>This is a page about »My New Post«.</description>
+    </item>
+    
+  </channel>
+</rss>
